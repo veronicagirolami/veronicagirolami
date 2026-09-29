@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://veronicagirolami.github.io/sitemap.xml
+Sitemap: https://veronicagirolami.github.io/veronicagirolami/sitemap.xml
