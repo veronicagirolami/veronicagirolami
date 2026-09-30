@@ -1,15 +1,52 @@
 ---
 layout: page
+title: Teaching
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching experience
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### University of Verona
 
-{% include courses.liquid %}
+#### Teaching Assistant — 2024–2025
+
+**Indo-European Linguistics**  
+Undergraduate course — 18 hours
+
+**Fundamentals of General and Historical Linguistics**  
+Undergraduate course — 20 hours of lectures + 60 hours of office hours
+
+**Historical Linguistics**  
+Postgraduate course — 12 hours
+
+---
+
+#### Teaching Assistant — 2023–2024
+
+**Historical Linguistics**  
+Postgraduate course — 12 hours
+
+---
+
+#### Teaching Assistant — 2021–2022
+
+**Indo-European Linguistics**  
+Undergraduate course — 18 hours
+
+**General Linguistics and Historical Linguistics**  
+Undergraduate courses — 36 hours
+
+**L’aspetto nella grammatica generativa**  
+Invited lecture for the course *Introduction to Russian Linguistics*
+
+---
+
+## Other teaching experience
+
+### ATHENEO Recupero anni scolastici & Pingu’s English
+
+#### English Teacher — 2022–2023
+
+English language teaching, Ascoli Piceno.
