@@ -11,7 +11,7 @@ nav_order: 4
 ### 2026
 
 **Past participle agreement in Ascolano: A Cyclic Agree approach**  
-Comparative Italian Dialect Syntax-Morphology Meeting – CIDSM 20, Université Côte d’Azur, September 24. [Slides]({{https://drive.google.com/file/d/1bymZ2WzWZuq5jJI8O4npaeHNIhkLYrUr/view?usp=drive_link}})
+Comparative Italian Dialect Syntax-Morphology Meeting – CIDSM 20, Université Côte d’Azur, September 24. [Slides](https://drive.google.com/file/d/1bymZ2WzWZuq5jJI8O4npaeHNIhkLYrUr/view?usp=drive_link)
 
 **Unaccusativity and inde-cl: A Comparative Study of Catalan and Italian**  
 IV Catalan Linguistics at Oxford Day – CLOx26, University of Oxford, June 6.
