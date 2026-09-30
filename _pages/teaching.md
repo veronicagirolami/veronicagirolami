@@ -37,12 +37,5 @@ Undergraduate courses — 36 hours
 **L’aspetto nella grammatica generativa**  
 Invited lecture for the course *Introduction to Russian Linguistics*
 
----
-
-## Other teaching experience
-
-### ATHENEO Recupero anni scolastici & Pingu’s English
-
-#### English Teacher — 2022–2023
 
 English language teaching, Ascoli Piceno.
