@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Teaching
+title: Teaching experience
 permalink: /teaching/
 nav: true
 nav_order: 5
 ---
 
-## Teaching experience
-
-### University of Verona
-
-#### Teaching Assistant — 2024–2025
+#### Teaching Assistant (University of Verona) — 2024–2025
 
 **Indo-European Linguistics**  
 Undergraduate course — 18 hours
