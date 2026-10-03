@@ -54,7 +54,7 @@ cv:
         highlights:
           - "Thesis: Fenomeni di interferenza e contatto linguistico in parlanti italo-canadesi di seconda generazione."
 
-          Experience:
+    Experience:
       - company: University of Verona
         position: Teaching Assistant
         location: Verona, Italy
@@ -101,7 +101,8 @@ cv:
         end_date: "2021"
         summary: ""
         highlights: []
-         Selected Conference Presentations:
+
+    Selected Conference Presentations:
       - title: "Past participle agreement in Ascolano: A Cyclic Agree approach"
         event: Comparative Italian Dialect Syntax-Morphology Meeting — CIDSM 20
         location: Université Côte d'Azur
@@ -182,7 +183,7 @@ cv:
         highlights:
           - "Poster."
 
-          Publications:
+    Publications:
       - title: "Essere ergativi in un mondo di accusativi: L'accordo del participio passato in ascolano"
         authors:
           - Veronica Girolami
@@ -225,7 +226,7 @@ cv:
         url: "https://doi.org/10.30687/BES/0/2021/01/004"
         summary: ""
 
-         Theses:
+    Theses:
       - title: "The status of ne-cliticization as a diagnostic for unaccusativity: evidence from Italian unergative verbs"
         institution: University of Verona
         date: "2022"
@@ -236,7 +237,7 @@ cv:
         date: "2019"
         type: BA Thesis
 
-        Academic Service:
+    Academic Service:
       - company: Newcastle University
         position: Member of the Organizing Committee
         location: Newcastle upon Tyne, United Kingdom
@@ -264,7 +265,32 @@ cv:
         highlights:
           - "With Alessandro Rossi."
 
-Languages:
+    Awards:
+      - title: Bursary for participation in the IV Catalan Linguistics at Oxford Day
+        authors:
+          - Institut Ramon Llull
+        date: "2026"
+        awarder: Institut Ramon Llull
+        url: ""
+        summary: ""
+
+      - title: Mobility Grant for Doctoral Students
+        authors:
+          - University of Verona
+        date: "2026"
+        awarder: University of Verona
+        url: ""
+        summary: ""
+
+      - title: PhD Scholarship
+        authors:
+          - University of Verona
+        date: "2023"
+        awarder: University of Verona
+        url: ""
+        summary: ""
+
+    Languages:
       - name: Italian
         summary: "Native"
 
@@ -282,3 +308,14 @@ Languages:
 
       - name: Catalan
         summary: "B1 — Certificat de nivell elemental de llengua catalana"
+
+    Skills:
+      - name: Research and Technical Tools
+        level: ""
+        icon: fa-solid fa-laptop
+        keywords: "LaTeX, Zotero, R, Jamovi, Microsoft Office, macOS, Windows"
+
+    Interests:
+      - name: Research Interests
+        icon: fa-solid fa-language
+        keywords: "Romance syntax, syntax-semantics interface, dialectology, language contact, heritage languages"
