@@ -1,189 +1,284 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Veronica Girolami
+  label: PhD Student in Linguistics
+  email: veronica.girolami@univr.it
+  location: ""
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: PhD student in Linguistics at the University of Verona. My research interests include Romance syntax, the syntax-semantics interface, dialectology, language contact, and heritage languages.
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  social_networks: []
 
   sections:
+
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Verona
+        location: Verona, Italy
+        area: Linguistics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: "2023"
+        end_date: "Present"
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Provisional thesis title: Competing alignments in Romance: A microvariation approach."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Newcastle University
+        location: Newcastle upon Tyne, United Kingdom
+        area: Linguistics
+        studyType: Visiting Research Stay
+        start_date: "2026-01"
+        end_date: "2026-06"
+        score: ""
+        courses: ""
+        highlights: []
+
+      - institution: University of Verona
+        location: Verona, Italy
+        area: Linguistics
+        studyType: Master's Degree
+        start_date: "2019"
+        end_date: "2022"
+        score: "110/110 cum laude"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: The status of ne-cliticization as a diagnostic for unaccusativity: evidence from Italian unergative verbs."
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: University of Verona
+        location: Verona, Italy
+        area: Foreign Languages and Literatures
+        studyType: Bachelor's Degree
+        start_date: "2016"
+        end_date: "2019"
+        score: "110/110 cum laude"
+        courses: ""
         highlights:
-          - Relativity
-          - Description 2.
+          - "Thesis: Fenomeni di interferenza e contatto linguistico in parlanti italo-canadesi di seconda generazione."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          Experience:
+      - company: University of Verona
+        position: Teaching Assistant
+        location: Verona, Italy
+        start_date: "2024"
+        end_date: "2025"
+        summary: Teaching assistance in undergraduate and postgraduate linguistics courses.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Indo-European Linguistics — undergraduate course, 18 hours."
+          - "Fundamentals of General and Historical Linguistics — undergraduate course, 20 hours of lectures and 60 hours of office hours."
+          - "Historical Linguistics — postgraduate course, 12 hours."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: University of Verona
+        position: Teaching Assistant
+        location: Verona, Italy
+        start_date: "2023"
+        end_date: "2024"
+        summary: ""
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Historical Linguistics — postgraduate course, 12 hours."
 
-    Awards:
-      - title: Nobel Prize in Physics
+      - company: ATHENEO Recupero anni scolastici & Pingu's English
+        position: English Teacher
+        location: Ascoli Piceno, Italy
+        start_date: "2022"
+        end_date: "2023"
+        summary: ""
+        highlights: []
+
+      - company: University of Verona
+        position: Teaching Assistant
+        location: Verona, Italy
+        start_date: "2021"
+        end_date: "2022"
+        summary: Teaching assistance in undergraduate linguistics courses.
+        highlights:
+          - "Indo-European Linguistics — undergraduate course, 18 hours."
+          - "General Linguistics and Historical Linguistics — undergraduate courses, 36 hours."
+          - "Invited lecture: L'aspetto nella grammatica generativa, for the course Introduction to Russian Linguistics."
+
+      - company: University of Verona
+        position: Junior Tutor for International Students
+        location: Verona, Italy
+        start_date: "2020"
+        end_date: "2021"
+        summary: ""
+        highlights: []
+         Selected Conference Presentations:
+      - title: "Past participle agreement in Ascolano: A Cyclic Agree approach"
+        event: Comparative Italian Dialect Syntax-Morphology Meeting — CIDSM 20
+        location: Université Côte d'Azur
+        date: "2026-09-24"
+
+      - title: "Unaccusativity and inde-cl: A Comparative Study of Catalan and Italian"
+        event: IV Catalan Linguistics at Oxford Day — CLOx26
+        location: University of Oxford
+        date: "2026-06-06"
+
+      - title: "Should I Stay or Should I Go? Aspectual Periphrases in Ascolano"
+        event: Tense and Aspect in Analytic Forms Workshop — TAAF
+        location: Universitat Pompeu Fabra
+        date: "2026-05"
+        highlights:
+          - "With Jelena Živojinović."
+
+      - title: "To alternate or not: Double Auxiliary Constructions in Ascolano"
+        event: Newcastle Northumbria Postgraduate Conference in Language and Linguistics — NNPCiLL16
+        location: Newcastle University
+        date: "2026-04-14"
+
+      - title: "Combining Unaccusativity Diagnostics in Romance: Evidence from Italian and Catalan"
+        event: III Workshop on Linguistic Variation at the Interfaces — VARINT26
+        location: Universitat de Girona
+        date: "2026-03"
+
+      - title: "Assessing the role of inde-cliticization in Romance: evidence from Italian and Catalan"
+        event: Incontro di Grammatica Generativa — IGG51
+        location: Università di Udine
+        date: "2026-02"
+
+      - title: "Reassessing diagnostics of unaccusativity: the case of ne-cliticization in Italian"
+        event: ConSOLE34
+        location: IUSS Pavia
+        date: "2026-01"
+
+      - title: "How to be ergative in a world of accusative: Insights from past-participle agreement in Ascolano"
+        event: Graduate Conference "On Otherness"
+        location: Università degli Studi di Trento
+        date: "2025-10"
+
+      - title: "Stare-ing into Aspect: Progressive and Continuous Periphrases in Ascolano"
+        event: Comparative Italian Dialect Syntax-Morphology Meeting — CIDSM 19
+        location: Università degli Studi "Gabriele d'Annunzio"
+        date: "2025-09"
+        highlights:
+          - "With Jelena Živojinović."
+
+      - title: "La selezione dell'ausiliare in ascolano: uno studio sull'alternanza tra essere e avere nel trapassato prossimo"
+        event: VIII Convegno Internazionale di Dialettologia — Progetto A.L.Ba
+        location: Potenza
+        date: "2025-05"
+
+      - title: "L'accordo del participio passato in dialetto ascolano: Osservazioni preliminari"
+        event: V Scuola Internazionale di Dialettologia
+        location: Sant'Arcangelo (PZ)
+        date: "2024-11"
+
+      - title: "Past participle agreement and alignment shift in Ascolano"
+        event: Cambridge Italian Dialect Syntax-Morphology Meeting — CIDSM18
+        location: University of Manchester
+        date: "2024-06"
+        highlights:
+          - "Poster."
+
+      - title: "Postposed articles and DP structures in Torlak"
+        event: SLS-16
+        location: University of Illinois at Urbana-Champaign, online
+        date: "2021-09"
+        highlights:
+          - "With Jelena Živojinović and Beatrice Azzolina."
+
+      - title: "Auxiliary selection in Italo-Canadian Heritage Speakers"
+        event: Heritage Language Syntax Workshop
+        location: Universiteit Utrecht, online
+        date: "2020-09"
+        highlights:
+          - "Poster."
+
+          Publications:
+      - title: "Essere ergativi in un mondo di accusativi: L'accordo del participio passato in ascolano"
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - Veronica Girolami
+        publisher: Proceedings of the Graduate Conference on "Otherness"
+        releaseDate: "Under revision"
+        url: ""
+        summary: "To appear."
 
-      - title: Max Planck Medal
+      - title: "Tracing ergativity in Ascolano past participle agreement: One or more rules?"
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - Veronica Girolami
+        publisher: Italian Journal of Linguistics
+        releaseDate: "Under revision"
+        url: ""
+        summary: "Submitted."
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Reassessing diagnostics of unaccusativity: The case of ne-cliticization in Italian"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Veronica Girolami
+        publisher: Proceedings of ConSOLE34
+        releaseDate: "Under revision"
+        url: ""
+        summary: "To appear."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "La selezione dell'ausiliare in Ascolano: Uno studio sull'alternanza tra essere e avere nel piuccheperfetto"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Veronica Girolami
+        publisher: Rivista Italiana di Linguistica e Dialettologia
+        releaseDate: "Under revision"
+        url: ""
+        summary: "Submitted."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Postposed articles and DP structures in Torlak"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Beatrice Azzolina
+          - Veronica Girolami
+          - Jelena Živojinović
+        publisher: Balcania et Slavia, 1(01), 97–116
+        releaseDate: "2021"
+        url: "https://doi.org/10.30687/BES/0/2021/01/004"
+        summary: ""
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+         Theses:
+      - title: "The status of ne-cliticization as a diagnostic for unaccusativity: evidence from Italian unergative verbs"
+        institution: University of Verona
+        date: "2022"
+        type: MA Thesis
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: "Interferenza e contatto linguistico in parlanti italo-canadesi di seconda generazione"
+        institution: University of Verona
+        date: "2019"
+        type: BA Thesis
+
+        Academic Service:
+      - company: Newcastle University
+        position: Member of the Organizing Committee
+        location: Newcastle upon Tyne, United Kingdom
+        start_date: "2026"
+        end_date: "2026"
+        summary: "SELL Postgraduate Conference: Creation and Innovation."
+        highlights:
+          - "June 6, 2026."
+
+      - company: University of Verona
+        position: Co-organizer
+        location: Verona, Italy
+        start_date: "2025"
+        end_date: "2025"
+        summary: 'FURIGLO#3 — "Il futuro della ricerca in Glottologia e Linguistica a Verona".'
+        highlights:
+          - "With Angelica Zordan."
+
+      - company: University of Verona
+        position: Co-organizer
+        location: Verona, Italy
+        start_date: "2024"
+        end_date: "2024"
+        summary: 'FURIGLO#2 — "Il futuro della ricerca in Glottologia e Linguistica a Verona".'
+        highlights:
+          - "With Alessandro Rossi."
+
+Languages:
+      - name: Italian
+        summary: "Native"
+
+      - name: Ascolano (Abruzzese dialect)
+        summary: "Heritage"
 
       - name: English
-        summary: "Fluent"
+        summary: "C2 — CPE Band A; IELTS 8/9"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Spanish
+        summary: "C1 — University certificate; DELE B2"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: French
+        summary: "B2 — Diplôme du baccalauréat, mention très bien"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Catalan
+        summary: "B1 — Certificat de nivell elemental de llengua catalana"
