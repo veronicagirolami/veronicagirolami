@@ -19,14 +19,14 @@ Postgraduate course — 12 hours
 
 ---
 
-#### Teaching Assistant — 2023–2024
+#### Teaching Assistant (University of Verona) — 2023–2024
 
 **Historical Linguistics**  
 Postgraduate course — 12 hours
 
 ---
 
-#### Teaching Assistant — 2021–2022
+#### Teaching Assistant (University of Verona) — 2021–2022
 
 **Indo-European Linguistics**  
 Undergraduate course — 18 hours
@@ -38,4 +38,3 @@ Undergraduate courses — 36 hours
 Invited lecture for the course *Introduction to Russian Linguistics*
 
 
-English language teaching, Ascoli Piceno.
