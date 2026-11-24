@@ -10,6 +10,9 @@ nav_order: 4
 
 ### 2026
 
+**Stressing the grammar: inde-cliticization with unergatives in Romance**
+Going Romance 40, Utrecht University, November 11, 2026.
+
 **Past participle agreement in Ascolano: A Cyclic Agree approach**  
 Comparative Italian Dialect Syntax-Morphology Meeting – CIDSM 20, Université Côte d’Azur, September 24. [Slides](https://drive.google.com/file/d/1bymZ2WzWZuq5jJI8O4npaeHNIhkLYrUr/view?usp=drive_link)
 
