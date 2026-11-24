@@ -6,6 +6,13 @@ nav: true
 nav_order: 5
 ---
 
+#### Teaching Assistant (University of Verona) — 2026–2027
+
+**Historical Linguistics**  
+Postgraduate course — 12 hours
+
+---
+
 #### Teaching Assistant (University of Verona) — 2024–2025
 
 **Indo-European Linguistics**  
